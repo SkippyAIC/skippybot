@@ -1,0 +1,6 @@
+{
+	"Cognitohazard": ["**Type**\nAnomalous Hazard\n\n**Description**\nA cognitohazard is an anomalous hazard that poses a threat when perceived with any combination of the 5 senses.\n\nTry: ``./scp 740``", "0xff0000", "https://scp-wiki.wdfiles.com/local--files/scp-740/scp740.jpg"],
+	"Eparch": ["**Type**\nEsoteric Object Class\n\n**Description**\nEparch defines an object that is not anomalous, but is notably related to anomalous activity.", "0", "0"],
+	"Ticonderoga": ["**Type**\nEsoteric Object Class\n\n**Description**\nTiconderoga defines an object that is extremely difficult or practically impossible for the SCP Foundation to contain, but the object does not require containment, typically due to antimemetic/self-concealing properties.\n\nTry: ``./scp 4444``", "0xffff00", "https://scp-wiki.wdfiles.com/local--files/scp-4444/bushvgore.jpg"],
+	"Safe": ["**Type**\nObject Class\n\n**Description**\nSafe defines an object that can be consistently and easily contained with very little maintenance or cost to the Foundation. Typically, Safe objects are thrown in their own lockers in a Site.\n\n**The Safe object class does not mean an SCP is safe to interact with! For classes denoting danger to humans, see ``Risk Class``**\n\nTry: ``./scp 131``", "0x00ff00", "https://scp-wiki.wdfiles.com/local--files/scp-131/131volgun.png"]
+	}
